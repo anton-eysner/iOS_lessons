@@ -28,6 +28,8 @@
 2. Клиенты для гита, если не хочется пользоваться терминалом [Fork](https://fork.dev), [SourceTree](https://www.sourcetreeapp.com), GitKraken
 3. [Как создать пулл реквест в гитхаб?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
+## Всем удачи в учебе :sunglasses:
+
 ## Lesson 1
 
 1. [HIG](https://developer.apple.com/design/human-interface-guidelines/)
