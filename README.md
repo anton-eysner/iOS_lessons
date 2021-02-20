@@ -25,5 +25,7 @@
 ## FAQ
 
 [Что такое git](https://git-scm.com/book/ru/v2/Введение-Основы-Git)
+
 Клиенты для гита, если не хочется пользоваться терминалом [Fork](https://fork.dev), [SourceTree](https://www.sourcetreeapp.com), GitKraken
+
 [Как создать пулл реквест в гитхаб?](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
